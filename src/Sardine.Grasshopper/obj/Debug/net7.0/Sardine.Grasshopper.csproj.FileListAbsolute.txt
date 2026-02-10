@@ -1,0 +1,16 @@
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.csproj.AssemblyReference.cache
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.AssemblyInfoInputs.cache
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.AssemblyInfo.cs
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.sourcelink.json
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\bin\Debug\net7.0\Sardine.Grasshopper.deps.json
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\bin\Debug\net7.0\Sardine.Grasshopper.dll
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\bin\Debug\net7.0\Sardine.Grasshopper.pdb
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\bin\Debug\net7.0\Sardine.Core.dll
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\bin\Debug\net7.0\Sardine.Core.pdb
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine..614606B8.Up2Date
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.dll
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\refint\Sardine.Grasshopper.dll
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\Sardine.Grasshopper.pdb
+C:\Users\Dimitar\sardine\src\Sardine.Grasshopper\obj\Debug\net7.0\ref\Sardine.Grasshopper.dll

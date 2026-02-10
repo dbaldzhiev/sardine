@@ -1,0 +1,108 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sardine.Grasshopper/1.0.0": {
+        "dependencies": {
+          "Grasshopper": "8.0.23304.9001",
+          "Sardine.Core": "1.0.0",
+          "System.Drawing.Common": "10.0.3"
+        },
+        "runtime": {
+          "Sardine.Grasshopper.dll": {}
+        }
+      },
+      "Grasshopper/8.0.23304.9001": {
+        "dependencies": {
+          "RhinoCommon": "8.0.23304.9001"
+        },
+        "runtime": {
+          "lib/net48/GH_IO.dll": {
+            "assemblyVersion": "8.0.23304.9001",
+            "fileVersion": "8.0.23304.9001"
+          },
+          "lib/net48/Grasshopper.dll": {
+            "assemblyVersion": "8.0.23304.9001",
+            "fileVersion": "8.0.23304.9001"
+          }
+        }
+      },
+      "RhinoCommon/8.0.23304.9001": {
+        "runtime": {
+          "lib/net48/Ed.Eto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net48/Eto.dll": {
+            "assemblyVersion": "2.7.0.0",
+            "fileVersion": "2.7.8705.22969"
+          },
+          "lib/net48/Rhino.UI.dll": {
+            "assemblyVersion": "8.0.23304.9001",
+            "fileVersion": "8.0.23304.9001"
+          },
+          "lib/net48/RhinoCommon.dll": {
+            "assemblyVersion": "8.0.23304.9001",
+            "fileVersion": "8.0.23304.9001"
+          }
+        }
+      },
+      "System.Drawing.Common/10.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.326.7603"
+          }
+        }
+      },
+      "Sardine.Core/1.0.0": {
+        "dependencies": {
+          "RhinoCommon": "8.0.23304.9001"
+        },
+        "runtime": {
+          "Sardine.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sardine.Grasshopper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grasshopper/8.0.23304.9001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L1Cse6nAxryzcZ7jsu3WzBiG9BYtgYsaNbRV+p55N+THKTFGmXx1PdBbiWtuxK9kB4jyuLVpeV8XBiYlSGA1Vw==",
+      "path": "grasshopper/8.0.23304.9001",
+      "hashPath": "grasshopper.8.0.23304.9001.nupkg.sha512"
+    },
+    "RhinoCommon/8.0.23304.9001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hWuqXjcj/eb1/z8+bml4Bav/8Oug2p6t0mAVf37GhX9sP+M1aYNO9FappqeN8oefcIBkLBmAzr46DYNhTxFAGQ==",
+      "path": "rhinocommon/8.0.23304.9001",
+      "hashPath": "rhinocommon.8.0.23304.9001.nupkg.sha512"
+    },
+    "System.Drawing.Common/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bJlT89G7EqMpiLCvIPmb7BHpcSxjVeFsahRyQk3/mrUt5YgHKiFcEv88db97gKcpRn5opxfBwI0ohUmJlxuGJg==",
+      "path": "system.drawing.common/10.0.3",
+      "hashPath": "system.drawing.common.10.0.3.nupkg.sha512"
+    },
+    "Sardine.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

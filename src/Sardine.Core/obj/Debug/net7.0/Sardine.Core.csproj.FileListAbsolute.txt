@@ -1,0 +1,13 @@
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.csproj.AssemblyReference.cache
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.AssemblyInfoInputs.cache
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.AssemblyInfo.cs
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.sourcelink.json
+C:\Users\Dimitar\sardine\src\Sardine.Core\bin\Debug\net7.0\Sardine.Core.deps.json
+C:\Users\Dimitar\sardine\src\Sardine.Core\bin\Debug\net7.0\Sardine.Core.dll
+C:\Users\Dimitar\sardine\src\Sardine.Core\bin\Debug\net7.0\Sardine.Core.pdb
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.dll
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\refint\Sardine.Core.dll
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\Sardine.Core.pdb
+C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net7.0\ref\Sardine.Core.dll
