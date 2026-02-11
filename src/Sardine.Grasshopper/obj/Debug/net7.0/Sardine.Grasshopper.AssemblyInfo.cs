@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sardine.Grasshopper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93eb59f9b9f67c7f6fd9ec1218991d70d3866354")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f9b53ee749fb05777d67db81063a8457f7c893c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sardine.Grasshopper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sardine.Grasshopper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

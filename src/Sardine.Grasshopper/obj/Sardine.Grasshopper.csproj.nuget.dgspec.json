@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj": {}
+    "C:\\Users\\db\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj": {
+    "C:\\Users\\db\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj",
+        "projectUniqueName": "C:\\Users\\db\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj",
         "projectName": "Sardine.Core",
-        "projectPath": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj",
-        "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Core\\obj\\",
+        "projectPath": "C:\\Users\\db\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj",
+        "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\db\\sardine\\src\\Sardine.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\db\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -81,36 +79,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj": {
+    "C:\\Users\\db\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj",
+        "projectUniqueName": "C:\\Users\\db\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj",
         "projectName": "Sardine.Grasshopper",
-        "projectPath": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj",
-        "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Grasshopper\\obj\\",
+        "projectPath": "C:\\Users\\db\\sardine\\src\\Sardine.Grasshopper\\Sardine.Grasshopper.csproj",
+        "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\db\\sardine\\src\\Sardine.Grasshopper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dimitar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\db\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj": {
-                "projectPath": "C:\\Users\\Dimitar\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj"
+              "C:\\Users\\db\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj": {
+                "projectPath": "C:\\Users\\db\\sardine\\src\\Sardine.Core\\Sardine.Core.csproj"
               }
             }
           }
@@ -170,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

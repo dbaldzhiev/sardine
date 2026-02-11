@@ -13,7 +13,7 @@
           "System.Drawing.Common": "10.0.3"
         },
         "runtime": {
-          "Sardine.Grasshopper.dll": {}
+          "Sardine.Grasshopper.gha": {}
         }
       },
       "Grasshopper/8.0.23304.9001": {
