@@ -1,6 +1,0 @@
-C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net10.0\Sardine.Core.csproj.AssemblyReference.cache
-C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net10.0\Sardine.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net10.0\Sardine.Core.AssemblyInfoInputs.cache
-C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net10.0\Sardine.Core.AssemblyInfo.cs
-C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net10.0\Sardine.Core.csproj.CoreCompileInputs.cache
-C:\Users\Dimitar\sardine\src\Sardine.Core\obj\Debug\net10.0\Sardine.Core.sourcelink.json
